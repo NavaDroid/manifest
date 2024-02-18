@@ -83,6 +83,7 @@
   <project path="packages/apps/Updater" name="packages_apps_Updater" remote="nava" />
 
   <!-- Vendor -->
+  <project path="vendor/gms" name="vendor_gms" remote="nava-gitlab" revision="14" clone-depth="1" />
   <project path="vendor/nava" name="vendor_nava" remote="nava" />
   <project path="vendor/pixel-framework" name="vendor_pixel-framework" remote="nava" />
   <project path="vendor/support" name="vendor_support" remote="nava" />
