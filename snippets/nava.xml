@@ -55,6 +55,7 @@
   <project path="packages/modules/Wifi" name="packages_modules_Wifi" groups="pdk-cw-fs,pdk-fs" remote="nava" />
   <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" groups="pdk" remote="nava" />
   <project path="packages/modules/Connectivity" name="packages_modules_Connectivity" groups="pdk" remote="nava" />
+  <project path="packages/modules/StatsD" name="packages_modules_StatsD" remote="nava" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="nava" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="nava" />
 
